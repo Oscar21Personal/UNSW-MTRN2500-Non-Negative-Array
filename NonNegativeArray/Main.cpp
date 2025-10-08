@@ -7,7 +7,8 @@ int main() {
 	MTRN2500::NonNegativeArray a3{ MTRN2500::NonNegativeArray({1.1, 2.56, 3.47, -1}) };
 
 	std::cout << a1 << '\n';
-
+	std::cout << a2 << '\n';
+	std::cout << a3 << '\n';
 
 	return 0;
 }
